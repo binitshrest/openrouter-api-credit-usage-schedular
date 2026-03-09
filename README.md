@@ -81,10 +81,15 @@ logging.level.com.example.demo=DEBUG
 
 ## Sample Output
 
-Here is an example of the message you will receive in Telegram detailing your API credit usage:
+Here are examples of the messages you will receive in Telegram detailing your API credit usage:
 
-![OpenRouter Analytics Premium Demo](<img width="554" height="960" alt="image" src="https://github.com/user-attachments/assets/6f72539e-869d-4d99-9a69-d3d8e2cd9dcd" />
-)
+### Account status / summary
+
+![OpenRouter Analytics - Account status](image2)
+
+### Model breakdown
+
+![OpenRouter Analytics - Model breakdown](image1)
 
 ## Manual Triggering
 
