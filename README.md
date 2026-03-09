@@ -85,13 +85,11 @@ Here are examples of the messages you will receive in Telegram detailing your AP
 
 ### Account status / summary
 
-![OpenRouter Analytics - Account status](<img width="778" height="993" alt="image" src="https://github.com/user-attachments/assets/afb21a96-ec22-4341-a6f4-f0b398577b26" />
-)
+![OpenRouter Analytics - Account status](https://github.com/user-attachments/assets/afb21a96-ec22-4341-a6f4-f0b398577b26)
 
 ### Model breakdown
 
-![OpenRouter Analytics - Model breakdown](<img width="812" height="1041" alt="image" src="https://github.com/user-attachments/assets/5c1f83d5-1060-4b24-ac0d-a6a07a6e293f" />
-)
+![OpenRouter Analytics - Model breakdown](https://github.com/user-attachments/assets/5c1f83d5-1060-4b24-ac0d-a6a07a6e293f)
 
 ## Manual Triggering
 
