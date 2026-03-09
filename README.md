@@ -79,6 +79,19 @@ bot.cron.schedule=0 0 22 * * ?
 logging.level.com.example.demo=DEBUG
 ```
 
+## Sample Output
+
+Here is an example of the message you will receive in Telegram detailing your API credit usage.
+
+*(Consider adding a screenshot here by capturing it and naming it `screenshot.png` in the root of the project)*
+<!-- ![Telegram Report Screenshot](screenshot.png) -->
+
 ## Manual Triggering
 
-For testing purposes, you can trigger a report manually if you have set up a workflow or testing endpoint. (See `.agent/workflows/send-report.md` if using the specific agent extension).
+In addition to the daily scheduled reports, you can trigger a report manually at any time by sending the following command to your bot in Telegram:
+
+```
+/totusg
+```
+
+For API testing purposes, you can also trigger a report manually if you have set up a workflow or testing endpoint. (See `.agent/workflows/send-report.md` if using the specific agent extension).
