@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  analytics-bot:
+    build: .
+    container_name: openrouter-analytics-bot
+    # Mount the .env file securely as a read-only volume
+    # This prevents credentials from being exposed as OS environment variables inside the container
+    volumes:
+      - ./.env:/app/secrets/env.properties:ro
+    restart: unless-stopped
+    # Note: We intentionally avoid the 'env_file' directive for security purposes.
