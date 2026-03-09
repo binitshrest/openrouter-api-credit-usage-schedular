@@ -95,3 +95,8 @@ In addition to the daily scheduled reports, you can trigger a report manually at
 ```
 
 For API testing purposes, you can also trigger a report manually if you have set up a workflow or testing endpoint. (See `.agent/workflows/send-report.md` if using the specific agent extension).
+
+## Contributors
+
+- **Binit Shrestha**
+- **Google Antigravity**
